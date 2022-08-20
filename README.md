@@ -1,4 +1,4 @@
-My college project about frame extarction
+My college project about frame extraction and segmentation on videos
 
 Install Python: www.phyton.org
 needed packages/dependencies:

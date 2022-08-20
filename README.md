@@ -4,7 +4,7 @@ Install Python: www.phyton.org
 
 needed packages/dependencies:
 
-1. pip install opencv-python
+pip install opencv-python
 
 Run:
 python frame_extraction.py

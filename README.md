@@ -2,9 +2,12 @@ My college project about frame extraction and segmentation on videos
 
 Install Python: www.phyton.org
 
-needed packages/dependencies:
-
+**Install needed dependencies
+```
 pip install opencv-python
+```
 
-Run:
+**Run script**
+```
 python frame_extraction.py
+```
